@@ -5,7 +5,7 @@
  * Date: 06/04/2017
  * Time: 09:21
  */
-namespace Assets\LoadAssets;
+namespace Custom\TwigUtiles;
 use Twig_Extension;
 use Twig_SimpleFilter;
 
