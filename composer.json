@@ -1,15 +1,11 @@
 {
-    "name": "badcow/lorem-ipsum",
-    "description": "Lorem ipsum generator.",
+    "name": "RPetrosjan/twig-utile",
+    "description": "Twig utiles",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mathew Tinsley",
-            "email": "tinsley@tinsology.net"
-        },
-        {
-            "name": "Sam Williams",
-            "email": "sam@badcow.co"
+            "name": "Petrosjan Ruben",
+            "email": "Ruben.Petrosjan@actency.fr"
         }
     ],
     "minimum-stability": "dev",
@@ -20,6 +16,6 @@
         "twig/twig": "Twig is a template language for PHP, released under the new BSD license (code and documentation)."
     },
     "autoload": {
-        "psr-4": { "Badcow\\LoremIpsum\\": "lib/" }
+        "psr-4": { "TwigUtiles\\bin\\": "bin/" }
     }
 }
