@@ -1,11 +1,11 @@
 {
-    "name": "RPetrosjan/twig-utile",
+    "name": "rpetrosjan/twig-utile",
     "description": "Twig utiles",
     "license": "MIT",
     "authors": [
         {
             "name": "Petrosjan Ruben",
-            "email": "Ruben.Petrosjan@actency.fr"
+            "email": "ruben.petrosjan@actency.fr"
         }
     ],
     "minimum-stability": "dev",
